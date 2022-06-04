@@ -1,13 +1,13 @@
 # RetryAndCircuitBreakerPatternPhp
 
-## Facade API (Symfony Framework)
+## Facade API (Laravel Framework)
 
 ```bash
-$ symfony server:start --no-tls
+php artisan serve
 ```
 
-## Todo API (Laravel Framework)
+## Todo API (Symfony Framework)
 
 ```bash
-$ php artisan serve --port=8001
+symfony server:start --no-tls --port=8001
 ```

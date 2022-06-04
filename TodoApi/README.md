@@ -1,8 +1,8 @@
 ## Commands
 ```bash
-$ php artisan make:model Todo
+composer require symfony/maker-bundle --dev  
 ```
 
 ```bash
-$ php artisan make:controller TodoController
+symfony console make:controller TodosController
 ```
